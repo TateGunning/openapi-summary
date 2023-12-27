@@ -1,2 +1,4 @@
-# openapi-summary
-This is a simple tool for rapidly editing an OpenAPI descriptions.
+# OpenAPI Summary
+This is a tool for editing the OpenAPI narrative.
+
+URL: https://openapi-summary.apievangelist.com
