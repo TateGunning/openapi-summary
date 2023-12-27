@@ -95,3 +95,26 @@ exclude:
 
 sass:
   style:            compressed
+
+collections:
+  info:
+    output:         true
+  faqs:
+    output:         false
+  timeline:
+    output:         false
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path:         ""
+      type:         posts
+    values:
+      layout:       post
+  # _info
+  - scope:
+      path:         ""
+      type:         info
+    values:
+      layout:       info
